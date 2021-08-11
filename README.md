@@ -1,13 +1,13 @@
-
-1.npm install,
-2.composer install,
-3.add database to .env
-4.php artisan key:generate
-5.php artisan config:cache
-6.php artisan migrate
-7.php artisan db:seed
-8.php artisan serve
-
+- **npm install**
+- **composer install**
+- **Create .env file from .env.example**
+- **php artisan key:generate**
+- **add database to .env**
+- **php artisan config:cache**
+- **php artisan migrate**
+- **php artisan db:seed**
+- **npm run prod**
+- **php artisan serve**
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
